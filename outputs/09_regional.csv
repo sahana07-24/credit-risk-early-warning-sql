@@ -1,0 +1,9 @@
+region,districts,accounts,loans,bad_loans,bad_rate_pct,avg_salary_czk,avg_unemployment_pct,corr_unemployment_vs_bad_rate_all_districts
+west Bohemia,10,430.0,57.0,9.0,15.8,9018.0,2.7,0.04
+north Moravia,11,793.0,117.0,18.0,15.4,9410.0,5.83,0.04
+south Bohemia,8,370.0,60.0,9.0,15.0,8817.0,2.82,0.04
+central Bohemia,12,574.0,90.0,10.0,11.1,9409.0,2.89,0.04
+east Bohemia,11,544.0,84.0,9.0,10.7,8626.0,2.98,0.04
+south Moravia,14,778.0,129.0,13.0,10.1,8895.0,3.51,0.04
+Prague,1,554.0,84.0,7.0,8.3,12541.0,0.43,0.04
+north Bohemia,10,457.0,61.0,1.0,1.6,9310.0,5.83,0.04

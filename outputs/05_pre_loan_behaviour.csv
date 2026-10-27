@@ -1,0 +1,12 @@
+signal,Bad loans,Good loans
+loans,76.0,606.0
+median_avg_balance_czk,32032.81,43266.69
+median_balance_volatility_cv,0.55,0.34
+median_cash_withdrawal_share_pct,100.0,84.78
+median_min_balance_czk,2060.7,18034.7
+median_monthly_inflow_czk,20649.39,24131.23
+median_payment_to_balance_pct,14.57,8.73
+median_payment_to_inflow_pct,20.54,14.82
+pct_balance_fell_below_5k,63.16,16.17
+pct_paid_penalty_interest,27.63,0.5
+pct_went_overdrawn,25.0,0.0

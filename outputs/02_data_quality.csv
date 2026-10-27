@@ -1,0 +1,9 @@
+check_name,issues,note
+Loans whose account does not exist,0,Every loan must join to an account
+Accounts with more than one loan,0,Bank rule: max one loan per account
+Accounts without exactly one owner,0,Owner join must not duplicate rows
+Loans issued before the account was opened,0,Time order must be valid
+Loan payment x duration differs from amount by > 1 CZK,0,Checks the loan terms add up
+Transactions with unknown operation (interest / other),183114,Expected: blank operation = interest
+Transactions leaving a negative balance,2999,"Real overdrafts, used as a risk signal"
+Districts with missing 1996 unemployment rate,0,"Source has ""?"" only in 1995 columns, so 1996 figures are used"

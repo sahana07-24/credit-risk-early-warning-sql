@@ -1,0 +1,5 @@
+status,loans,pct_loans,total_amount_czk,pct_amount,avg_amount_czk,avg_duration_months,avg_monthly_payment_czk
+"Finished, paid in full",203,29.8,18603216.0,18.0,91641.0,22.2,4264.0
+"Finished, not paid",31,4.5,4362348.0,4.2,140721.0,25.5,5396.0
+"Running, up to date",403,59.1,69078372.0,66.9,171410.0,43.4,3939.0
+"Running, in debt",45,6.6,11217804.0,10.9,249285.0,46.1,5287.0
